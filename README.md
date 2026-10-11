@@ -32,9 +32,6 @@ and components for:
 -   **HTML** --- web page structure
 -   **Git and GitHub** --- version control and project hosting
 
-The exact database and dependency versions are defined by the project
-configuration. Check `pom.xml` and
-`src/main/resources/application.properties` for the details.
 
 ## Project Structure
 
