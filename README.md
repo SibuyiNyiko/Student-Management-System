@@ -20,11 +20,8 @@ and components for:
 -   Viewing the student list
 -   Creating a student record
 -   Editing a student record
--   Organising application logic into controller, service, repository,
-    and entity layers
-
-> Note: Update this section if your implementation includes additional
-> features or if any of these functions are not yet complete.
+-   Deleting a student record
+  
 
 ## Technologies Used
 
