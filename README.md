@@ -169,7 +169,11 @@ Possible enhancements, depending on the current implementation, include:
 -   Improved responsive styling and accessibility
 -   Automated tests for controller and service logic
 -   Clear setup instructions for the database
--   Screenshots or a short demo of the application
+
+## Project Demo
+
+https://github.com/user-attachments/assets/177a64a5-51fe-42d5-9a30-3987d67b97af
+
 
 ## Author
 
